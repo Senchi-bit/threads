@@ -1,0 +1,14 @@
+D:\Files\threads\First_Lab\Second_lab\bin\Debug\net8.0\Second_lab.exe
+D:\Files\threads\First_Lab\Second_lab\bin\Debug\net8.0\Second_lab.deps.json
+D:\Files\threads\First_Lab\Second_lab\bin\Debug\net8.0\Second_lab.runtimeconfig.json
+D:\Files\threads\First_Lab\Second_lab\bin\Debug\net8.0\Second_lab.dll
+D:\Files\threads\First_Lab\Second_lab\bin\Debug\net8.0\Second_lab.pdb
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.AssemblyInfoInputs.cache
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.AssemblyInfo.cs
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.csproj.CoreCompileInputs.cache
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.dll
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\refint\Second_lab.dll
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.pdb
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\Second_lab.genruntimeconfig.cache
+D:\Files\threads\First_Lab\Second_lab\obj\Debug\net8.0\ref\Second_lab.dll

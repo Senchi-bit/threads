@@ -1,0 +1,14 @@
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.AssemblyInfoInputs.cache
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.AssemblyInfo.cs
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.csproj.CoreCompileInputs.cache
+D:\Files\threads\First_Lab\First_Lab\bin\Debug\net8.0\First_Lab.exe
+D:\Files\threads\First_Lab\First_Lab\bin\Debug\net8.0\First_Lab.deps.json
+D:\Files\threads\First_Lab\First_Lab\bin\Debug\net8.0\First_Lab.runtimeconfig.json
+D:\Files\threads\First_Lab\First_Lab\bin\Debug\net8.0\First_Lab.dll
+D:\Files\threads\First_Lab\First_Lab\bin\Debug\net8.0\First_Lab.pdb
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.dll
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\refint\First_Lab.dll
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.pdb
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\First_Lab.genruntimeconfig.cache
+D:\Files\threads\First_Lab\First_Lab\obj\Debug\net8.0\ref\First_Lab.dll
