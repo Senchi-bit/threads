@@ -12,3 +12,4 @@ D:\Files\threads\First_Lab\Deadlock_third_lab\obj\Debug\net8.0\refint\Deadlock_t
 D:\Files\threads\First_Lab\Deadlock_third_lab\obj\Debug\net8.0\Deadlock_third_lab.pdb
 D:\Files\threads\First_Lab\Deadlock_third_lab\obj\Debug\net8.0\Deadlock_third_lab.genruntimeconfig.cache
 D:\Files\threads\First_Lab\Deadlock_third_lab\obj\Debug\net8.0\ref\Deadlock_third_lab.dll
+D:\Files\threads\First_Lab\Deadlock_third_lab\obj\Debug\net8.0\Deadlock_third_lab.sourcelink.json

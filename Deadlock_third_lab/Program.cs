@@ -41,20 +41,18 @@ public static class Program
 
     private static void WorkWithY()
     {
+        mutexX.WaitOne();
+        x = 1;
+        Console.WriteLine("Поток 2: захватил x");
+        
+        
         mutexY.WaitOne();
         Console.WriteLine("Поток 2 захватил y");
 
 
         y = 2;
         Console.WriteLine("Поток 2: y = 2");
-        mutexY.ReleaseMutex();
-        
-        mutexX.WaitOne();
-        x = 1;
-        Console.WriteLine("Поток 2: захватил x");
-        
-        
         mutexX.ReleaseMutex();
-
+        mutexY.ReleaseMutex();
     }
 }
